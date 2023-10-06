@@ -21,4 +21,12 @@
  </a>
 </p>
 
-# NEOSSAT_Tutorial
+# Extraction de données NEOSSAT - Un tutoriel (English Follows)
+Ce tutoriel se concentre sur le téléchargement des données NEOSSAT à partir du site Web de l’Agence spatiale canadienne et du Centre canadien de données astronomiques. Les utilisateurs peuvent filtrer les données et visualiser les fichiers .fits de leur choix pour le contexte du défi des applications spatiales.  
+
+Dans les prochaines itérations de ce tutoriel, le code se concentrera sur la création d’une carte du ciel des données Neossat et le traitement de ses images.
+
+# Extracting NEOSSAT data - A Tutorial  (Le français précède)
+This tutorial focuses on downloading the NEOSSAT data from the website of the Canadian space agency and Canadian astronomy data center. The users can filter through the data and visualize the .fits files of their choice for the context of the Space Apps challenges.  
+
+In the future iterations of this tutorial, the code will focus on creating a sky map of the NEOSSAT data and processing its images.
