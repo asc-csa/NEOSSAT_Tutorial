@@ -74,11 +74,7 @@ Un second tutoriel est offert pour démontrer les différentes étapes du prétr
    conda create -n neossat_env python=3.9
    conda activate neossat_env
    ```
-3. 📥 **Installer les dépendances**
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. 🚀 **Lancer le tutoriel**
+3. 🚀 **Lancer le tutoriel**
    ```bash
    jupyter notebook
    ```
@@ -149,11 +145,7 @@ A second tutorial is available to demonstrate different steps in pre-processing 
    conda create -n neossat_env python=3.9
    conda activate neossat_env
    ```
-3. 📥 **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. 🚀 **Run the tutorial**
+3. 🚀 **Run the tutorial**
    ```bash
    jupyter notebook
    ```
