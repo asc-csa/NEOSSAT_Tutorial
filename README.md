@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://www.asc-csa.gc.ca/images/satellites/neossat/neossat-ban.jpg" alt="image-text" height="300">
-    <br> Crédit d'image | Image credit: <a href="https://www.asc-csa.gc.ca/eng/satellites/neossat.asp">ASC-CSA</a>
+   <img src="neossat.jpg" alt="neossat" height=300>
+   <br> Crédit d'image | Image credit: <a href="https://www.asc-csa.gc.ca/eng/multimedia/search/image/7818/">ASC-CSA</a>
 </p>
 
 <p align="center">
